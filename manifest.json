@@ -1,0 +1,15 @@
+{
+  "short_name": "Mint Page",
+  "name": "Mint Page",
+  "icons": [
+    {
+      "src": "nftylogo.jpeg",
+      "type": "image/png",
+      "sizes": "358x358"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
